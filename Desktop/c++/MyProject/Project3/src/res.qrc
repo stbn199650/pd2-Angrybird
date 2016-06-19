@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="bird.png">image/Normal_Bird_1.png</file>
+        <file>image/Ground_Sakura.png</file>
+        <file>image/GROUND2.PNG</file>
+        <file>image/back.PNG</file>
+        <file>image/Slingshot_2.png</file>
+        <file>image/bird_blue.png</file>
+        <file>image/bird_yellow.png</file>
+        <file>image/BUTTON_RESTART.png</file>
+        <file>image/wood.png</file>
+        <file>image/wood1.png</file>
+        <file>image/ICON_EXIT.png</file>
+        <file>image/bird_gray.png</file>
+        <file>image/XMAS_COOKIE_BIRD.png</file>
+        <file>image/stone_break.mp3</file>
+        <file>image/gif1.GIF</file>
+        <file>image/bomb.gif</file>
+    </qresource>
+</RCC>
